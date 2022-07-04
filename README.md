@@ -1,2 +1,2 @@
 # f
-this is a pseudo scripting language for videogames asset interpreted in c
+this is a scripting language for videogames asset similare to c
